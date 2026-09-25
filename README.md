@@ -110,7 +110,7 @@ Include the **version and build** shown on the About page. You'll need a free Gi
 | <img src="docs/readme/scan.svg" width="36" alt=""> | Screen scans and grid photos: read on your device, never uploaded |
 | <img src="docs/readme/poi.svg" width="36" alt=""> | Logbook screenshots: read on your device, stored only if you save one |
 
-Game data comes from the [No Man's Sky Wiki](https://nomanssky.fandom.com/) (CC BY-SA). If something looks wrong after a patch, please report it.
+Game data comes from the [No Man's Sky Wiki](https://nomanssky.fandom.com/) (CC BY-SA), with the newest items and charts from [No Man's Sky Resources](https://www.nomansskyresources.com). If something looks wrong after a patch, please report it.
 
 ---
 
