@@ -74,7 +74,7 @@ Private to you; needs you to be signed in.
 | <img src="docs/readme/search.svg" width="36" alt=""> | Search, filter, sort (cards on phones, table on computers) |
 | <img src="docs/readme/stations.svg" width="36" alt=""> | Stations: record the upgrades each merchant sells |
 | <img src="docs/readme/poi.svg" width="36" alt=""> | Points of interest: class, coordinates |
-| <img src="docs/readme/scan.svg" width="36" alt=""> | **Screenshot** on any record: its portal glyphs, galaxy and names are read and filled in. It's linked to the planet or system with the same address; a missing one is added for you. Systems also get their region from the galaxy map. It's named from the galaxy map or planet info when the screen shows the name, otherwise from the address: glyph 1 is the planet ("Planet 3"), the next three the system ("System 05E"). The same system is never added twice |
+| <img src="docs/readme/scan.svg" width="36" alt=""> | **Screenshot** on any record: its portal glyphs, galaxy and names are read and filled in. It's linked to the planet or system with the same address; a missing one is added for you. Systems also get their region from the galaxy map. It's named from the galaxy map or planet info when the screen shows the name, otherwise from the address: glyph 1 is the planet ("Planet 3"), the next three the system ("System 05E"). The same system is never added twice. The areas it read are marked on the picture: move, resize or delete a box, or add one, and read again |
 
 **Glyphs in photo mode:** take the screenshot with your platform's own capture (for example Steam's F12). The game's camera leaves the glyphs out. Glyphs marked in amber need checking against the picture; corrections are remembered on your device.
 
