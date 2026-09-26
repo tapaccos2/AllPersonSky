@@ -1,4 +1,4 @@
-# All Person Sky
+# All People Sky
 
 **Unofficial No Man's Sky companion:** guides, calculators and a personal logbook for phone, tablet and computer.
 
