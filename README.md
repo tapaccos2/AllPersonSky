@@ -74,7 +74,7 @@ Private to you; needs you to be signed in.
 | <img src="docs/readme/search.svg" width="36" alt=""> | Search, filter, sort (cards on phones, table on computers) |
 | <img src="docs/readme/stations.svg" width="36" alt=""> | Stations: record the upgrades each merchant sells |
 | <img src="docs/readme/poi.svg" width="36" alt=""> | Points of interest: class, coordinates |
-| <img src="docs/readme/scan.svg" width="36" alt=""> | **Screenshot** on any record: its portal glyphs, galaxy and names are read and filled in, and it's linked to the planet or system with the same address (or offers to add them) |
+| <img src="docs/readme/scan.svg" width="36" alt=""> | **Screenshot** on any record: its portal glyphs, galaxy and names are read and filled in. It's linked to the planet or system with the same address; a missing one is added for you (named from the screen, or "System 05E" / "Planet 3" from the address). The same system is never added twice |
 
 **Glyphs in photo mode:** take the screenshot with your platform's own capture (for example Steam's F12). The game's camera leaves the glyphs out. Glyphs marked in amber need checking against the picture; corrections are remembered on your device.
 
