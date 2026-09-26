@@ -61,6 +61,7 @@ Tabs: Exosuit · Starship · Multi-tool · Freighter · Exocraft
 - Icons you name are remembered on this device.
 - Mark supercharged slots on ships, tools, exocraft and freighters.
 - Undo is always there. Saving needs you to be signed in.
+- A saved layout keeps the grid part of your screenshot, so you can name the remaining **?** slots later.
 
 ## <img src="docs/readme/logbook.svg" width="28" alt=""> Logbook
 
@@ -111,7 +112,7 @@ Include the **version and build** shown on the About page. You'll need a free Gi
 | | |
 |---|---|
 | <img src="docs/readme/logbook.svg" width="36" alt=""> | Logbook and saved layouts: only you can see them |
-| <img src="docs/readme/scan.svg" width="36" alt=""> | Screen scans and grid photos: read on your device, never uploaded |
+| <img src="docs/readme/scan.svg" width="36" alt=""> | Screen scans and grid photos: read on your device; a saved layout keeps only the grid part, privately |
 | <img src="docs/readme/poi.svg" width="36" alt=""> | Logbook screenshots: read on your device, stored only if you save one |
 
 No ads, no analytics, no tracking cookies. The full policy is the **Privacy** page in the app (About → Privacy policy).
