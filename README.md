@@ -86,7 +86,7 @@ The panel and any glyphs it finds are marked on the picture, as with screenshots
 
 ## <img src="docs/readme/account.svg" width="28" alt=""> Account
 
-**Create account** · **Sign in** · **Forgot password?** · **Sign out**. All of these are in the avatar menu at the top right.
+**Create account** · **Sign in** · **Continue with Google** · **Forgot password?** · **Sign out**. All of these are in the avatar menu at the top right. Google sign-in with the same e-mail address as an existing account opens that account.
 
 **Delete my account** (bottom of the Account page) removes your account, your whole logbook and your screenshots. Type your e-mail address to confirm.
 
