@@ -88,6 +88,10 @@ The panel and any glyphs it finds are marked on the picture, as with screenshots
 
 **Create account** · **Sign in** · **Forgot password?** · **Sign out**. All of these are in the avatar menu at the top right.
 
+**Delete my account** (bottom of the Account page) removes your account, your whole logbook and your screenshots. Type your e-mail address to confirm.
+
+**Install it like an app:** in Chrome or Edge use "Install app"; on an iPhone use Share → "Add to Home Screen". Guides and tools you have opened keep working without a connection, and the app tells you when a new version is ready.
+
 ## <img src="docs/readme/heroes.svg" width="28" alt=""> Heroes
 
 The app is free, and supporters on Patreon keep it running.
@@ -109,6 +113,8 @@ Include the **version and build** shown on the About page. You'll need a free Gi
 | <img src="docs/readme/logbook.svg" width="36" alt=""> | Logbook and saved layouts: only you can see them |
 | <img src="docs/readme/scan.svg" width="36" alt=""> | Screen scans and grid photos: read on your device, never uploaded |
 | <img src="docs/readme/poi.svg" width="36" alt=""> | Logbook screenshots: read on your device, stored only if you save one |
+
+No ads, no analytics, no tracking cookies. The full policy is the **Privacy** page in the app (About → Privacy policy).
 
 Game data comes from the [No Man's Sky Wiki](https://nomanssky.fandom.com/) (CC BY-SA), with the newest items and charts from [No Man's Sky Resources](https://www.nomansskyresources.com). If something looks wrong after a patch, please report it.
 
