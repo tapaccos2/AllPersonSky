@@ -82,7 +82,7 @@ Private to you; needs you to be signed in.
 
 <img src="docs/readme/flow-scan.svg" alt="1 photo or upload of the galaxy map, 2 read on your device, 3 check the form, then Save" width="500">
 
-For a game language other than English, choose it in the scan dialog.
+The panel and any glyphs it finds are marked on the picture, as with screenshots: move, resize or delete a box, or add one, and read again. For a game language other than English, choose it in the scan dialog.
 
 ## <img src="docs/readme/account.svg" width="28" alt=""> Account
 
