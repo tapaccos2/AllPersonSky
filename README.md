@@ -95,7 +95,7 @@ The panel and any glyphs it finds are marked on the picture, as with screenshots
 
 **Create account** · **Sign in** · **Continue with Google** · **Forgot password?** · **Sign out**. All of these are in the avatar menu at the top right. Google sign-in with the same e-mail address as an existing account opens that account.
 
-**Delete my account** (bottom of the Account page) removes your account, your whole logbook and your screenshots. Type your e-mail address to confirm.
+**Delete my account** (bottom of the Account page, or the [Delete your account](https://allpeoplesky.com/delete-account) page) removes your account, your whole logbook and your screenshots. Type your e-mail address to confirm. Can't sign in any more? That page says how to ask us by e-mail.
 
 **Install it like an app:** in Chrome or Edge use "Install app"; on an iPhone use Share → "Add to Home Screen". Guides and tools you have opened keep working without a connection, and the app tells you when a new version is ready.
 
