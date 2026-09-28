@@ -77,13 +77,18 @@ Private to you; needs you to be signed in.
 
 | | |
 |---|---|
-| <img src="docs/readme/systems.svg" width="36" alt=""> | **+ New …** on any list; tap a name to open it |
+| <img src="docs/readme/systems.svg" width="36" alt=""> | **+ New …** on any list; tap a name to open it. On a system's page, the **→** beside Planets or Space stations opens that list filtered to the system; on a planet's page, beside Bases or Points of interest |
 | <img src="docs/readme/search.svg" width="36" alt=""> | Search, filter, sort (cards on phones, table on computers) |
 | <img src="docs/readme/stations.svg" width="36" alt=""> | Stations: record the upgrades each merchant sells |
 | <img src="docs/readme/poi.svg" width="36" alt=""> | Points of interest: class, coordinates |
-| <img src="docs/readme/scan.svg" width="36" alt=""> | **Screenshot** (alpha: check what it fills in) on any record: its portal glyphs, galaxy and names are read and filled in. It's linked to the planet or system with the same address; a missing one is added for you. Systems also get their region from the galaxy map. It's named from the galaxy map or planet info when the screen shows the name, otherwise from the address: glyph 1 is the planet ("Planet 3"), the next three the system ("System 05E"). The same system is never added twice. The areas it read are marked on the picture: move, resize or delete a box, or add one, and read again |
+| <img src="docs/readme/portal.svg" width="36" alt=""> | **From address** (Systems): pick the galaxy and enter the 12 glyphs. The app works out, on your device and the way the game does, the system's name and region, star colour, race, economy, wealth and conflict, every planet and moon by name with its details (biome, the discovery-page description, weather and storms, hazard, Sentinels, resources, fauna and flora, water), and its space station. **Add to my logbook** adds them all, linked; anything already there is kept. Saving a system with a galaxy and a full address (typed in, or from **Scan screen**) adds its planets, moons and station the same way, as ticked on the form. A system's page then shows its distance to the galactic centre, how many planets and moons it has, and whether it holds the region's black hole or Atlas Interface |
+| <img src="docs/readme/scan.svg" width="36" alt=""> | **Screenshot** (alpha: check what it fills in) on any record: its portal glyphs, galaxy and names are read and filled in. It's linked to the planet or system with the same address; a missing one is added for you, with the game's own names for that address (a name the screen shows wins), and you can tick **Add every planet and moon** and **Add the system's space station**. The same system is never added twice. The areas it read are marked on the picture: move, resize or delete a box, or add one, and read again |
 
-**Glyphs in photo mode:** take the screenshot with your platform's own capture (for example Steam's F12). The game's camera leaves the glyphs out. Glyphs marked in amber need checking against the picture; corrections are remembered on your device.
+**What the address can't tell:** the exact spectral class (only the star colour) and a station's guild. Add those from the galaxy map or the station, or a screenshot. Names are the game's originals, not ones other players uploaded.
+
+**Planet details:** open **Planet details** on a planet's form to see or change them; **Fill in from the address** fills the empty ones (the planet's system needs a galaxy). A screenshot with the planet's glyphs fills them too. Nothing you typed is replaced.
+
+**Glyphs in photo mode:** take the screenshot with your platform's own capture (for example Steam's F12). The game's camera leaves the glyphs out. The galaxy name under the glyphs is read too, so the names match your galaxy. Glyphs marked in amber need checking against the picture; corrections are remembered on your device.
 
 ### <img src="docs/readme/scan.svg" width="24" alt=""> Scan screen (Systems)
 
