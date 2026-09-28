@@ -60,7 +60,11 @@ Tabs: Exosuit · Starship · Multi-tool · Freighter · Exocraft
 
 <img src="docs/readme/flow-tech.svg" alt="1 photo or screenshot, 2 frame the grid, 3 read the grid, 4 tap ? slots to name them, 5 read the analysis, 6 apply moves and save" width="500">
 
-- Icons you name are remembered on this device.
+- The frame starts where you last put it for that inventory (and the same number of rows), so screenshots from the same screen need no dragging.
+- Icons you name are remembered on this device. Icons the app team names are recognised for everyone, on any ship.
+- When you tap a **?** slot, **Most likely** lists the techs whose icon looks closest. Check the name in the game before picking.
+- On starships and multi-tools the slot's border colour shows its family (red Blaze Javelin, green Mining Beam…): the picker lists that family first.
+- Place the frame with the mouse, or nudge it with the arrow keys (Ctrl moves ten times as far, Shift resizes). The next screenshot of the same inventory starts with the frame where you left it.
 - Mark supercharged slots on ships, tools, exocraft and freighters.
 - Undo is always there. Saving needs you to be signed in.
 - A saved layout keeps the grid part of your screenshot, so you can name the remaining **?** slots later.
