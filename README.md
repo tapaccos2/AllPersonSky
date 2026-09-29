@@ -1,5 +1,7 @@
 # All People Sky
 
+<img src="docs/readme/logo-name.webp" alt="All People Sky" width="600">
+
 **Unofficial No Man's Sky companion:** guides, calculators and a personal logbook for phone, tablet and computer.
 
 <p>
