@@ -41,6 +41,7 @@ Some guides show only when you're signed in.
 | <img src="docs/readme/solar.svg" width="40" alt=""> | **Solar & battery** | Panels and batteries for your base's power |
 | <img src="docs/readme/extraction.svg" width="40" alt=""> | **Extraction** | Extractors, depots, power and materials for a mining or gas site |
 | <img src="docs/readme/arena.svg" width="40" alt=""> | **Creature Arena** | Best creature types against each opponent |
+| <img src="docs/readme/circuit.svg" width="40" alt=""> | **Circuit Tester** | Build base circuits from switches and logic parts, then test them |
 | <img src="docs/readme/tech.svg" width="40" alt=""> | **Tech optimisation** | Checks your tech grid layout and suggests moves |
 
 Every tab has its own link, so you can bookmark or share it.
@@ -52,6 +53,19 @@ Every tab has its own link, so you can bookmark or share it.
 - **Density:** the Survey Device shows it; the hotspot centre is best.
 - **Advanced:** 2 extractors per network avoid the slowdown.
 
+### <img src="docs/readme/circuit.svg" width="24" alt=""> Circuit Tester
+
+**Build**, then **Test**. Parts: power (solar, battery, reactor, generator), switches (wall, button, floor, proximity), Auto Switch, Power Inverter, and outputs (lights, noise box, sphere creator).
+
+- **Gates:** AND, OR, NOT, NAND, NOR, XOR, XNOR and a buffer drop in as the real parts that make them, already wired, moving as one. Wire your switches to **A** and **B**, power to **+**, and a light to **Q**. **Ungroup** to change one.
+- **Wiring:** tap a socket, then another (or drag between them). Wires find their own way: never behind a part, never along another wire; where two cross, a small bridge shows they aren't joined, and a dot marks where joined wires branch. Hover a socket to see what it is (P power in, C control, Q power out…). To move a wire, tap it and drag one of its round ends onto another socket.
+- **Tidy:** parts snap to the grid; select several (Shift) to line them up or space them evenly. **Delete** removes what's selected. **Copy** and **Paste** (Ctrl+C, Ctrl+X, Ctrl+V; Ctrl+D duplicates) work on parts and whole gates, with the wires between them, even into another circuit.
+- **Big circuits:** scroll with the mouse wheel or the scrollbars, zoom with Ctrl + wheel or a pinch.
+- **Test:** tap switches and buttons. Blue wires have power, dark orange ones don't. Auto Switches and Power Inverters react one tick (about a second) later, as in game. Play, pause or step one tick.
+- **Power** (day and night) and **materials** add up as you build. Wiring isn't counted.
+- **Examples:** light switch, two-switch lock, two-way stair light, blinker, memory latch.
+- Your circuit stays on this device; sign in to save circuits to your account. Undo with Ctrl+Z.
+
 ### <img src="docs/readme/tech.svg" width="24" alt=""> Tech optimisation
 
 Tabs: Exosuit · Starship · Multi-tool · Freighter · Exocraft
@@ -60,7 +74,7 @@ Tabs: Exosuit · Starship · Multi-tool · Freighter · Exocraft
 
 <img src="docs/readme/flow-tech.svg" alt="1 photo or screenshot, 2 frame the grid, 3 read the grid, 4 tap ? slots to name them, 5 read the analysis, 6 apply moves and save" width="500">
 
-- The frame starts where you last put it for that inventory (and the same number of rows), so screenshots from the same screen need no dragging.
+- Set how many **rows** and **columns** the screenshot shows. The frame starts where you last put it for that inventory (same size, rows and columns), so screenshots from the same screen need no dragging.
 - Icons you name are remembered on this device. Icons the app team names are recognised for everyone, on any ship.
 - When you tap a **?** slot, **Most likely** lists the techs whose icon looks closest. Check the name in the game before picking.
 - On starships and multi-tools the slot's border colour shows its family (red Blaze Javelin, green Mining Beam…): the picker lists that family first.
@@ -81,8 +95,8 @@ Private to you; needs you to be signed in.
 | <img src="docs/readme/search.svg" width="36" alt=""> | Search, filter, sort (cards on phones, table on computers) |
 | <img src="docs/readme/stations.svg" width="36" alt=""> | Stations: record the upgrades each merchant sells |
 | <img src="docs/readme/poi.svg" width="36" alt=""> | Points of interest: class, coordinates |
-| <img src="docs/readme/portal.svg" width="36" alt=""> | **From address** (Systems): pick the galaxy and enter the 12 glyphs. The app works out, on your device and the way the game does, the system's name and region, star colour, race, economy, wealth and conflict, every planet and moon by name with its details (biome, the discovery-page description, weather and storms, hazard, Sentinels, resources, fauna and flora, water), and its space station. **Add to my logbook** adds them all, linked; anything already there is kept. Saving a system with a galaxy and a full address (typed in, or from **Scan screen**) adds its planets, moons and station the same way, as ticked on the form. A system's page then shows its distance to the galactic centre, how many planets and moons it has, and whether it holds the region's black hole or Atlas Interface |
-| <img src="docs/readme/scan.svg" width="36" alt=""> | **Screenshot** (alpha: check what it fills in) on any record: its portal glyphs, galaxy and names are read and filled in. It's linked to the planet or system with the same address; a missing one is added for you, with the game's own names for that address (a name the screen shows wins), and you can tick **Add every planet and moon** and **Add the system's space station**. The same system is never added twice. The areas it read are marked on the picture: move, resize or delete a box, or add one, and read again |
+| <img src="docs/readme/portal.svg" width="36" alt=""> | **From address** (Systems): pick the galaxy and enter the 12 glyphs (tap them, or type or paste the address as hex, e.g. 217EB09D79D7). The app works out, on your device and the way the game does, the system's name and region, star colour, race, economy, wealth and conflict, every planet and moon by name with its details (biome, the discovery-page description, weather and storms, hazard, Sentinels, resources, fauna and flora, water), and its space station. **Add to my logbook** adds them all, linked; anything already there is kept. Saving a system with a galaxy and a full address (typed in, or from **Scan screen**) adds its planets, moons and station the same way, as ticked on the form. A system's page then shows its distance to the galactic centre, how many planets and moons it has, and whether it holds the region's black hole or Atlas Interface |
+| <img src="docs/readme/scan.svg" width="36" alt=""> | **Screenshot** on any record: its portal glyphs, galaxy and names are read and filled in. It's linked to the planet or system with the same address; a missing one is added for you, with the game's own names for that address (a name the screen shows wins), and you can tick **Add every planet and moon** and **Add the system's space station**. The same system is never added twice. The areas it read are marked on the picture: move, resize or delete a box, or add one, and read again |
 
 **What the address can't tell:** the exact spectral class (only the star colour) and a station's guild. Add those from the galaxy map or the station, or a screenshot. Names are the game's originals, not ones other players uploaded.
 
