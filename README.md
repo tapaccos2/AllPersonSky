@@ -72,8 +72,6 @@ Every tab has its own link, so you can bookmark or share it.
 
 Tabs: Exosuit · Starship · Multi-tool · Freighter · Exocraft
 
-**Alpha:** reading your screenshot is still being tuned, so check what it filled in.
-
 <img src="docs/readme/flow-tech.svg" alt="1 photo or screenshot, 2 frame the grid, 3 read the grid, 4 tap ? slots to name them, 5 read the analysis, 6 apply moves and save" width="500">
 
 - Set how many **rows** and **columns** the screenshot shows. The frame starts where you last put it for that inventory (same size, rows and columns), so screenshots from the same screen need no dragging.
