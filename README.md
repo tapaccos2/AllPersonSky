@@ -121,7 +121,7 @@ Records other travellers have shared: systems, planets, space stations, bases an
 
 ## <img src="docs/readme/about.svg" width="28" alt=""> News
 
-New features and important changes appear under **News** on the home page. Want them by e-mail? Turn on **News by e-mail** on your Account page (off unless you turn it on; turn it off there at any time).
+New features and important changes appear under **News** on the home page. Want them by e-mail? Turn on **News by e-mail** on your Account page (on for new accounts; turn it off there at any time).
 
 ## <img src="docs/readme/account.svg" width="28" alt=""> Account
 
