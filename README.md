@@ -82,8 +82,8 @@ Tabs: Exosuit · Starship · Corvette · Multi-tool · Freighter · Exocraft
 - When you tap a **?** slot, **Most likely** lists the techs whose icon looks closest. Check the name in the game before picking.
 - On starships and multi-tools the slot's border colour shows its family (red Blaze Javelin, green Mining Beam…): the picker lists that family first.
 - Place the frame with the mouse, or nudge it with the arrow keys (Ctrl moves ten times as far, Shift resizes). The next screenshot of the same inventory starts with the frame where you left it.
-- Mark supercharged slots on ships, corvettes, tools, exocraft and freighters.
-- **Corvette**: its general starship tech and upgrade modules plus its core parts (reactors, cockpit, thrusters, shields, weapons, landing gear). Only the first three parts of a type count: a fourth is flagged.
+- Mark supercharged slots on ships, corvettes, tools, exocraft and freighters. The reminder asks for as many as the class gives: 1 at C up to 4 at S (exocraft 3).
+- **Corvette**: its general starship tech and upgrade modules plus its core parts (reactors, cockpit, thrusters, shields, weapons, landing gear), including the Forsaken ones. Only the first three parts of a type count (three of each reactor or weapon kind): a fourth is flagged.
 - Undo is always there. Saving needs you to be signed in.
 - A saved layout keeps the grid part of your screenshot, so you can name the remaining **?** slots later.
 
