@@ -33,6 +33,8 @@
 
 Some guides show only when you're signed in.
 
+**Gallery** (the button beside the guides' heading, or under Guides in the sidebar): pictures and PDFs from the team. Tap a picture to see it full size, step through with the arrows, and press **Download** to save it; a PDF opens in your browser, where you can read or save it.
+
 ## <img src="docs/readme/tools.svg" width="28" alt=""> Tools
 
 | | Tool | What it does |
