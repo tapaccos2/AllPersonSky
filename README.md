@@ -46,6 +46,7 @@ Some guides show only when you're signed in.
 | <img src="docs/readme/extraction.svg" width="40" alt=""> | **Extraction** | Extractors, depots, power and materials for a mining or gas site |
 | <img src="docs/readme/arena.svg" width="40" alt=""> | **Creature Arena** | Best creature types against each opponent |
 | <img src="docs/readme/circuit.svg" width="40" alt=""> | **Circuit Tester** | Build base circuits from switches and logic parts, then test them |
+| <img src="docs/readme/corvette.svg" width="40" alt=""> | **Corvette parts** | Every corvette part: picture, family, what it does, its bonuses; search, filter and sort |
 | <img src="docs/readme/tech.svg" width="40" alt=""> | **Tech optimisation** | Checks your tech grid layout and suggests moves |
 
 Every tab has its own link, so you can bookmark or share it.
