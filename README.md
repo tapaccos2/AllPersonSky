@@ -85,7 +85,7 @@ Tabs: Exosuit · Starship · Multi-tool · Freighter · Exocraft
 
 ## <img src="docs/readme/logbook.svg" width="28" alt=""> Logbook
 
-Private to you; needs you to be signed in.
+Private to you (unless you share a record); needs you to be signed in.
 
 <img src="docs/readme/logbook-map.svg" alt="A system holds planets and space stations; a planet holds bases and points of interest" width="440">
 
@@ -96,6 +96,7 @@ Private to you; needs you to be signed in.
 | <img src="docs/readme/stations.svg" width="36" alt=""> | Stations: record the upgrades each merchant sells |
 | <img src="docs/readme/poi.svg" width="36" alt=""> | Points of interest: class, coordinates |
 | <img src="docs/readme/portal.svg" width="36" alt=""> | **From address** (Systems): pick the galaxy and enter the 12 glyphs (tap them, or type or paste the address as hex, e.g. 217EB09D79D7). The app works out, on your device and the way the game does, the system's name and region, star colour, race, economy, wealth and conflict, every planet and moon by name with its details (biome, the discovery-page description, weather and storms, hazard, Sentinels, resources, fauna and flora, water), and its space station. **Add to my logbook** adds them all, linked; anything already there is kept. Saving a system with a galaxy and a full address (typed in, or from **Scan screen**) adds its planets, moons and station the same way, as ticked on the form. A system's page then shows its distance to the galactic centre, how many planets and moons it has, and whether it holds the region's black hole or Atlas Interface |
+| <img src="docs/readme/heroes.svg" width="36" alt=""> | **Share** on any record's page puts it on the public [Discoveries](#discoveries) page, under your display name, with its own link to send to friends. A system can take its planets and stations along, a planet its bases and points of interest. Your notes stay private. Press **Shared** to copy the link or **Make private** again |
 | <img src="docs/readme/scan.svg" width="36" alt=""> | **Screenshot** on any record: its portal glyphs, galaxy and names are read and filled in. It's linked to the planet or system with the same address; a missing one is added for you, with the game's own names for that address (a name the screen shows wins), and you can tick **Add every planet and moon** and **Add the system's space station**. The same system is never added twice. The areas it read are marked on the picture: move, resize or delete a box, or add one, and read again |
 
 **What the address can't tell:** the exact spectral class (only the star colour) and a station's guild. Add those from the galaxy map or the station, or a screenshot. Names are the game's originals, not ones other players uploaded.
@@ -110,13 +111,21 @@ Private to you; needs you to be signed in.
 
 The panel and any glyphs it finds are marked on the picture, as with screenshots: move, resize or delete a box, or add one, and read again. For a game language other than English, choose it in the scan dialog.
 
+## <img src="docs/readme/search.svg" width="28" alt=""> Discoveries
+
+Records other travellers have shared: systems, planets, space stations, bases and points of interest, with their glyphs, details and screenshots. Filter by kind and galaxy, or search a name or a traveller. Each one has its own page and link; linked shared records (a system's planets, a planet's bases) are listed on it. No account needed to look. Signed in, you can **Report** a shared record that breaks the rules, and an admin takes a look.
+
+## <img src="docs/readme/about.svg" width="28" alt=""> News
+
+New features and important changes appear under **News** on the home page. Want them by e-mail? Turn on **News by e-mail** on your Account page (off unless you turn it on; turn it off there at any time).
+
 ## <img src="docs/readme/account.svg" width="28" alt=""> Account
 
 **Create account** · **Sign in** · **Continue with Google** · **Forgot password?** · **Sign out**. All of these are in the avatar menu at the top right. Google sign-in with the same e-mail address as an existing account opens that account.
 
 **Delete my account** (bottom of the Account page, or the [Delete your account](https://allpeoplesky.com/delete-account) page) removes your account, your whole logbook and your screenshots. Type your e-mail address to confirm. Can't sign in any more? That page says how to ask us by e-mail.
 
-**Install it like an app:** in Chrome or Edge use "Install app"; on an iPhone use Share → "Add to Home Screen". Guides and tools you have opened keep working without a connection, and the app tells you when a new version is ready.
+**Install it like an app:** in Chrome or Edge use "Install app"; on an iPhone use Share → "Add to Home Screen". The **Install the App** guide shows every phone, tablet and computer step by step. Hold the installed icon (or right-click it on a computer) to jump straight to the Logbook, Refiner, Discoveries or Guides. Guides and tools you have opened keep working without a connection, and the app tells you when a new version is ready.
 
 ## <img src="docs/readme/heroes.svg" width="28" alt=""> Heroes
 
@@ -136,7 +145,7 @@ Include the **version and build** shown on the About page. You'll need a free Gi
 
 | | |
 |---|---|
-| <img src="docs/readme/logbook.svg" width="36" alt=""> | Logbook and saved layouts: only you can see them |
+| <img src="docs/readme/logbook.svg" width="36" alt=""> | Logbook and saved layouts: only you can see them, unless you share a record (never its notes) |
 | <img src="docs/readme/scan.svg" width="36" alt=""> | Screen scans and grid photos: read on your device; a saved layout keeps only the grid part, privately |
 | <img src="docs/readme/poi.svg" width="36" alt=""> | Logbook screenshots: read on your device, stored only if you save one |
 
