@@ -145,6 +145,8 @@ In your account you can hide yourself from the Heroes page or change the name it
 
 Include the **version and build** shown on the About page. You'll need a free GitHub account. You can also [open an issue](https://github.com/tapaccos2/AllPersonSky/issues) directly.
 
+No GitHub account? Use **Send us a message** on the About page: type your e-mail address and message, and we reply by e-mail.
+
 ## <img src="docs/readme/privacy.svg" width="28" alt=""> Privacy
 
 | | |
