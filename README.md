@@ -33,7 +33,7 @@
 
 Some guides show only when you're signed in.
 
-**Gallery** (the button beside the guides' heading, or under Guides in the sidebar): pictures and PDFs from the team. Each shows its name and size. Tap a picture to see it full size, step through with the arrows, and press **Download** to save it; a PDF opens in your browser, where you can read or save it.
+**Gallery** (the button beside the guides' heading, or under Guides in the sidebar): pictures and PDFs from the team. Each shows its name and size. Tap a picture to see it full size, step through with the arrows, and press **Download** to save it; a PDF opens in your browser, where you can read or save it. The tags at the top show one kind of item (Posters, Maps, …); **Group by tag** lists them under each tag.
 
 ## <img src="docs/readme/tools.svg" width="28" alt=""> Tools
 
