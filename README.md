@@ -20,7 +20,7 @@
 | | Where |
 |---|---|
 | **Phone** | Tabs along the bottom |
-| **Tablet / computer** | Sidebar: one link per tool and logbook list |
+| **Tablet / computer** | Sidebar: one link per tool and logbook list (tap the **Tools** or **Logbook** heading to fold it away; remembered on this device) |
 | **Account / Admin** | Avatar at the top right |
 | **Language** | Flag at the top right: English, Français, Español (remembered on your account) |
 
