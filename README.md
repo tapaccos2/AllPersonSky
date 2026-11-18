@@ -44,6 +44,8 @@ Some guides show only when you're signed in.
 | <img src="docs/readme/crafting.svg" width="40" alt=""> | **Crafting** | Material tree down to raw materials |
 | <img src="docs/readme/solar.svg" width="40" alt=""> | **Solar & battery** | Panels and batteries for your base's power |
 | <img src="docs/readme/extraction.svg" width="40" alt=""> | **Extraction** | Extractors, depots, power and materials for a mining or gas site |
+| <img src="docs/readme/extraction.svg" width="40" alt=""> | **Timers** | Timers for refiners, crops, frigates and settlements, with a notification when they finish |
+| <img src="docs/readme/search.svg" width="40" alt=""> | **Fishing** | Every fish: where and when it bites, water depth, value and the best bait; search and filter |
 | <img src="docs/readme/arena.svg" width="40" alt=""> | **Creature Arena** | Best creature types against each opponent |
 | <img src="docs/readme/circuit.svg" width="40" alt=""> | **Circuit Tester** | Build base circuits from switches and logic parts, then test them |
 | <img src="docs/readme/corvette.svg" width="40" alt=""> | **Corvette parts** | Every corvette part: picture, family, what it does, its bonuses; search, filter and sort |
@@ -100,7 +102,9 @@ Private to you (unless you share a record); needs you to be signed in.
 | <img src="docs/readme/stations.svg" width="36" alt=""> | Stations: record the upgrades each merchant sells |
 | <img src="docs/readme/poi.svg" width="36" alt=""> | Points of interest: class, coordinates |
 | <img src="docs/readme/heroes.svg" width="36" alt=""> | **Spaceships**: your starships and corvettes, with type, class, a screenshot and **About this ship** (your text, shown to others when you share the ship). **Share** puts it in the [Spaceship showroom](#spaceship-showroom) |
+| <img src="docs/readme/heroes.svg" width="36" alt=""> | **Outfits**: looks you made at the Appearance Modifier: race, the parts (head or helmet, torso, legs, backpack, cape), a screenshot and **About this outfit**. **Share** puts it in the [Outfit Showcase](#outfit-showcase) |
 | <img src="docs/readme/portal.svg" width="36" alt=""> | **From address** (Systems): pick the galaxy and enter the 12 glyphs (tap them, or type or paste the address as hex, e.g. 217EB09D79D7). The app works out, on your device and the way the game does, the system's name and region, star colour, race, economy, wealth and conflict, every planet and moon by name with its details (biome, the discovery-page description, weather and storms, hazard, Sentinels, resources, fauna and flora, water), and its space station. **Add to my logbook** adds them all, linked; anything already there is kept. Saving a system with a galaxy and a full address (typed in, or from **Scan screen**) adds its planets, moons and station the same way, as ticked on the form. A system's page then shows its distance to the galactic centre, how many planets and moons it has, and whether it holds the region's black hole or Atlas Interface |
+| <img src="docs/readme/search.svg" width="36" alt=""> | **QR code** on any record's page: scan it with your phone to open that record. A shared record's code opens its public page, so anyone can scan it; a private one's opens it in your own logbook. **Download** saves the code as a picture |
 | <img src="docs/readme/heroes.svg" width="36" alt=""> | **Share** on any record's page puts it on the public [Discoveries](#discoveries) page, under your display name, with its own link to send to friends. A system can take its planets and stations along, a planet its bases and points of interest. Your notes stay private. Press **Shared** to copy the link or **Make private** again |
 | <img src="docs/readme/scan.svg" width="36" alt=""> | **Screenshot** on any record: its portal glyphs, galaxy and names are read and filled in. It's linked to the planet or system with the same address; a missing one is added for you, with the game's own names for that address (a name the screen shows wins), and you can tick **Add every planet and moon** and **Add the system's space station**. The same system is never added twice. The areas it read are marked on the picture: move, resize or delete a box, or add one, and read again |
 
@@ -120,9 +124,17 @@ The panel and any glyphs it finds are marked on the picture, as with screenshots
 
 Records other travellers have shared: systems, planets, space stations, bases and points of interest, with their glyphs, details and screenshots. Filter by kind and galaxy, or search a name or a traveller. Each one has its own page and link; linked shared records (a system's planets, a planet's bases) are listed on it. No account needed to look. Signed in, you can **Report** a shared record that breaks the rules, and an admin takes a look.
 
+## <img src="docs/readme/about.svg" width="28" alt=""> Timers
+
+**Tools → Timers** (signed in): start a timer for a refiner, a crop, a frigate expedition, a settlement or anything else, and get a **notification** when it's done, even with the app closed. The Refiner's **Start timer** button fills one in for you. Turn notifications on once on each device (**Turn on notifications**, then **Send a test**). On iPhone and iPad they only work in the installed app (iOS 16.4 or later). Your timers show on every device you sign in on.
+
 ## <img src="docs/readme/heroes.svg" width="28" alt=""> Spaceship showroom
 
 Starships and corvettes other travellers have shared from **Logbook → Spaceships**: big pictures, type and class, and what their owners wrote about them. Filter by type, sort by newest, top rated or most comments, or search a name or a traveller. No account needed to look. Signed in, you can **rate** a ship from 1 to 5 stars and **comment** on it. Shared **space stations** and **bases** on the Discoveries page take ratings and comments too. You can't rate your own; you can delete your comments, and comments left on your records.
+
+## <img src="docs/readme/heroes.svg" width="28" alt=""> Outfit Showcase
+
+Outfits other travellers have shared from **Logbook → Outfits**: their pictures, race, parts and what their owners wrote. Filter by race, sort by newest, top rated or most comments, or search. Signed in, you can **rate** an outfit from 1 to 5 stars and **comment** on it, like the ships in the Spaceship showroom.
 
 ## <img src="docs/readme/about.svg" width="28" alt=""> News
 
