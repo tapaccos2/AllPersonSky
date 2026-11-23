@@ -35,7 +35,7 @@
 
 Some guides show only when you're signed in.
 
-**Gallery** (the button beside the guides' heading, or under Guides in the sidebar): pictures and PDFs from the team. Each shows its name and size. Tap a picture to see it full size, step through with the arrows, and press **Download** to save it; a PDF opens in your browser, where you can read or save it. The tags at the top show one kind of item (Posters, Maps, …); **Group by tag** lists them under each tag.
+**Gallery** (the button beside the guides' heading, or under Guides in the sidebar): pictures and PDFs from the team. Each shows its name and size. Tap a picture to see it full size, step through with the arrows, and press **Download** to save it; a PDF opens in your browser, where you can read or save it. The tags at the top show one kind of item (Posters, Maps, …); **Group by tag** lists them under each tag: a tag with more than 10 shows its first 10 and a **See all** button for the rest.
 
 ## <img src="docs/readme/tools.svg" width="28" alt=""> Tools
 
@@ -47,6 +47,7 @@ Some guides show only when you're signed in.
 | <img src="docs/readme/solar.svg" width="40" alt=""> | **Solar & battery** | Panels and batteries for your base's power |
 | <img src="docs/readme/extraction.svg" width="40" alt=""> | **Extraction** | Extractors, depots, power and materials for a mining or gas site |
 | <img src="docs/readme/extraction.svg" width="40" alt=""> | **Timers** | Timers for refiners, crops, frigates and settlements, with a notification when they finish |
+| <img src="docs/readme/search.svg" width="40" alt=""> | **Planet finder** | Describe the planet you want (galaxy, star colour, race, biome, paradise, no storms, Sentinels, resources…) and get portal addresses for places you’ve never been |
 | <img src="docs/readme/search.svg" width="40" alt=""> | **Fishing** | Every fish: where and when it bites, water depth, value and the best bait; search and filter |
 | <img src="docs/readme/arena.svg" width="40" alt=""> | **Creature Arena** | Best creature types against each opponent |
 | <img src="docs/readme/circuit.svg" width="40" alt=""> | **Circuit Tester** | Build base circuits from switches and logic parts, then test them |
@@ -105,8 +106,9 @@ Private to you (unless you share a record); needs you to be signed in.
 | <img src="docs/readme/search.svg" width="36" alt=""> | Search, filter, sort (cards on phones, table on computers) |
 | <img src="docs/readme/stations.svg" width="36" alt=""> | Stations: record the upgrades each merchant sells |
 | <img src="docs/readme/poi.svg" width="36" alt=""> | Points of interest: class, coordinates |
-| <img src="docs/readme/heroes.svg" width="36" alt=""> | **Spaceships**: your starships and corvettes, with type, class, pictures, **About this ship** (your text, shown to others when you share the ship) and private **Notes**. **Share** puts it in the [Spaceship showroom](#spaceship-showroom) |
+| <img src="docs/readme/heroes.svg" width="36" alt=""> | **Spaceships**: your starships and corvettes, with type, class, pictures, **About this ship** (your text, shown to others when you share the ship) and private **Notes**. For a rare ship, **Where to find one** (galaxy, where it turns up, the system's portal address) is shown with it too. **Share** puts it in the [Spaceship showroom](#spaceship-showroom) |
 | <img src="docs/readme/heroes.svg" width="36" alt=""> | **Outfits**: looks you made at the Appearance Modifier: race, the parts (head or helmet, torso, legs, backpack, cape), pictures and **About this outfit**. **Share** puts it in the [Outfit Showcase](#outfit-showcase) |
+| <img src="docs/readme/heroes.svg" width="36" alt=""> | **Companions**: the creatures you adopted, as the Companion Registry shows them: species, native climate, gender, height, weight, personality (Playful/Helpful, Gentle/Aggressive, Devoted/Independent), Xeno Arena affinity, battle abilities (level and class, Combat Effectiveness, Agility and Health classes, Holo-Arena victories; all three S marks it **Triple S**), whether it can be ridden, where its species lives (galaxy and portal address), pictures, **About this companion** and private **Notes**. **Share** puts it in [The Zoo](#the-zoo) |
 | <img src="docs/readme/portal.svg" width="36" alt=""> | **From address** (Systems): pick the galaxy and enter the 12 glyphs (tap them, or type or paste the address as hex, e.g. 217EB09D79D7). The app works out, on your device and the way the game does, the system's name and region, star colour, race, economy, wealth and conflict, every planet and moon by name with its details (biome, the discovery-page description, weather and storms, hazard, Sentinels, resources, fauna and flora, water), and its space station. **Add to my logbook** adds them all, linked; anything already there is kept. Saving a system with a galaxy and a full address (typed in, or from **Scan screen**) adds its planets, moons and station the same way, as ticked on the form. A system's page then shows its distance to the galactic centre, how many planets and moons it has, and whether it holds the region's black hole or Atlas Interface |
 | <img src="docs/readme/search.svg" width="36" alt=""> | **QR code** on any record's page: scan it with your phone to open that record. A shared record's code opens its public page, so anyone can scan it; a private one's opens it in your own logbook. **Download** saves the code as a picture |
 | <img src="docs/readme/heroes.svg" width="36" alt=""> | **Share** on any record's page puts it on the public [Discoveries](#discoveries) page, under your display name, with its own link to send to friends. A system can take its planets and stations along, a planet its bases and points of interest. Your notes stay private. Press **Shared** to copy the link or **Make private** again |
@@ -155,6 +157,12 @@ Starships and corvettes other travellers have shared from **Logbook → Spaceshi
 
 Outfits other travellers have shared from **Logbook → Outfits**: their pictures, race, parts and what their owners wrote. Filter by race, sort by newest, top rated or most comments, or search. Signed in, you can **rate** an outfit from 1 to 5 stars and **comment** on it, like the ships in the Spaceship showroom.
 
+## <img src="docs/readme/heroes.svg" width="28" alt=""> The Zoo
+
+Companions other travellers have shared from **Logbook → Companions**: their pictures, species, native climate, personality and where to find their species. Filter by native climate or show **Triple S only**, sort by newest, top rated or most comments, or search. Signed in, you can **rate** a companion and **comment** on it.
+
+On a computer, Discoveries, the Spaceship showroom, the Outfit Showcase and The Zoo are together under **Pathfinders** in the side menu; on a phone they're under **More**.
+
 ## <img src="docs/readme/arena.svg" width="28" alt=""> Missions
 
 **Campaigns** (phases of missions) and standalone **missions**, each with a difficulty from ★ to ★★★★★. Play them in the game, then prove each mission in the app:
@@ -164,6 +172,7 @@ Outfits other travellers have shared from **Logbook → Outfits**: their picture
 | <img src="docs/readme/scan.svg" width="36" alt=""> | **Scan a medal page**: raise a medal on a Catalogue & Guide page (e.g. Pirates Killed on the Mercenaries Guild page). The app asks you to scan the page when you start, and again to check |
 | <img src="docs/readme/portal.svg" width="36" alt=""> | **Go there**: travel to a portal address and scan its glyphs (photo mode shows them) |
 | <img src="docs/readme/planets.svg" width="36" alt=""> | **Answer a question** about the planet or system at an address: what kind of planet, its Sentinels, its economy… |
+| <img src="docs/readme/planets.svg" width="36" alt=""> | **Find a secret message** the campaign's author left in the game (a beacon, a Communication Station, a sign on a base) and type it in. Capitals and punctuation don't matter; a wrong message waits 30 seconds before the next try |
 | <img src="docs/readme/scan.svg" width="36" alt=""> | **Units, Nanites, Quicksilver**: earn or spend an amount, or reach a total. Scan any inventory or Catalogue & Guide screen (the figures at the top left) |
 | <img src="docs/readme/scan.svg" width="36" alt=""> | **Elements**: collect, use up or carry an amount of an element (Carbon, Oxygen…) in your **exosuit**. Scan your exosuit inventory with its Cargo in view: the app reads each element's tag (C, O2, CO2…) and amount |
 | <img src="docs/readme/bases.svg" width="36" alt=""> | **Bases, space stations, outfits and spaceships**: have or add a number of them in your **Logbook** (space stations you own, records with a picture, or ones you've shared, if the mission says so). **Check my logbook** counts them |
