@@ -41,6 +41,7 @@ Some guides show only when you're signed in.
 
 | | Tool | What it does |
 |---|---|---|
+| <img src="docs/readme/atlas.svg" width="40" alt=""> | **Ask ATLAS** (Beta) | Ask out loud while you play: recipes, shopping lists, refining, buffs, bait, crop times, arena, guides |
 | <img src="docs/readme/refiner.svg" width="40" alt=""> | **Refiner** | Every refiner recipe for a product, with amounts and time |
 | <img src="docs/readme/recipes.svg" width="40" alt=""> | **Recipes** | Cooking: ingredients, material tree, Nutrient Ingestor buff |
 | <img src="docs/readme/crafting.svg" width="40" alt=""> | **Crafting** | Material tree down to raw materials |
@@ -93,6 +94,20 @@ Tabs: Exosuit · Starship · Corvette · Multi-tool · Freighter · Exocraft
 - **Corvette**: its general starship tech and upgrade modules plus its core parts (reactors, cockpit, thrusters, shields, weapons, landing gear), including the Forsaken ones. Only the first three parts of a type count (three of each reactor or weapon kind): a fourth is flagged.
 - Undo is always there. Saving needs you to be signed in.
 - A saved layout keeps the grid part of your screenshot, so you can name the remaining **?** slots later.
+
+### <img src="docs/readme/atlas.svg" width="24" alt=""> Ask ATLAS
+
+<img src="docs/readme/flow-atlas.svg" alt="Hold the button, ask out loud, hear the answer">
+
+Tap the round **microphone button** at the bottom right of any page (or open Tools → Ask ATLAS). Prop a phone or tablet beside the TV, keep the controller in your hands and **ask**: *"How do I make a Stasis Device?"*, *"Shopping list for 5 Stasis Devices"*, *"How do I refine Chromatic Metal?"*, *"What does Jam Tart do?"*, *"What bait for night fish?"*, *"How long does Frostwort take to grow?"*, *"What beats Fire in the arena?"*, or anything in the guides. Follow up with *"how many for 10?"*, *"base materials"* or *"say it again"*. When ATLAS isn't sure it asks *"Did you mean…"*: tap a choice or say *"the second one"*.
+
+- The **Ask ATLAS** guide lists everything you can ask (the **Guide** button on the page opens it), or just say *"What can I ask?"*.
+- **Signed in, ATLAS can also do things for you**: *"Start a refiner timer for 250 Condensed Carbon"*, *"Start a Frostwort timer"*, *"Set a timer for 20 minutes"*, *"Add this system to my logbook"* (it reads the portal glyphs with your camera). It always asks first: say **yes** or **no**, or tap the buttons.
+- **…and answer about your own game**: *"What's my best ship?"*, *"Which base has Copper?"*, *"Where did I find my S-class multi-tool?"*, *"Scan my Cargo"*, *"How much Carbon do I have?"*, *"How far am I from my next Gek rank?"* (the last three read your screen with the camera).
+- Works in English, French and Spanish (item names stay in English). You can always **type** instead; it's the only way in Firefox.
+- ATLAS answers out loud and on screen. **Voice on/off**, **ATLAS (echo)** or **Plain**, and **Speed** are on the page, and remembered on your device.
+- A headset microphone helps a lot: game sound from the TV causes most mistakes.
+- In Chrome on a computer you can download a speech pack (about 60 MB) so listening happens on your device. Otherwise your browser's speech service turns your voice into text (Google's in Chrome). The app never keeps your voice or your questions.
 
 ## <img src="docs/readme/logbook.svg" width="28" alt=""> Logbook
 
